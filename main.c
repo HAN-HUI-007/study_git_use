@@ -1,10 +1,5 @@
 #include <stdio.h>
-//asdasdasdadsa
-/*
- * 主函数程序
- * 该程序会无限循环输出"Hello World!"字符串
- * 包含了多重嵌套循环结构
- */
+//正式程序
 int main()
 {
     // 打印10次"Hello World!"
