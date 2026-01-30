@@ -1,5 +1,10 @@
 #include <stdio.h>
 //正式程序
+// #include <stdlib.h>
+// #include <string.h>
+// #include <math.h>
+// #include <time.h>
+
 int main()
 {
     // 打印10次"Hello World!"
